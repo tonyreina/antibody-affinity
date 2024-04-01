@@ -1,0 +1,17 @@
+name: antibody-env
+channels:
+- nvidia
+- pytorch
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- python
+- pip
+- scikit-learn
+- jupyter
+- pytorch
+- pytorch-cuda
+- pip:
+  - transformers
+
