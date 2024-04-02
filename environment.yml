@@ -7,12 +7,12 @@ channels:
 - defaults
 dependencies:
 - black
-- python
-- pip
-- scikit-learn
 - jupyter
+- pip
+- python
 - pytorch
 - pytorch-cuda
+- scikit-learn
 - pip:
   - accelerate
   - py3Dmol
