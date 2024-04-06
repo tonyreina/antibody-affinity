@@ -8,12 +8,15 @@ channels:
 dependencies:
 - black
 - jupyter
+- lightning
 - pip
 - python
 - pytorch
 - pytorch-cuda
 - scikit-learn
+- seaborn
 - pip:
   - accelerate
   - py3Dmol
+  - PyTDC
   - transformers
