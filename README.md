@@ -18,5 +18,9 @@ neural network with PyTorch Lightning. (Currently the model makes very bad predi
 2. `conda env create -f environment.yml` to create the conda environment called `antibody-env`.
 3. `conda activate antibody-env` to activate the conda environment.
 4. `jupyter lab` to run a Jupyter Lab server. Click on the url in the output log.
+```
+Jupyter Server 2.13.0 is running at:
+    http://localhost:8888/lab?token=55d9dont7d55usea9fc266notgooda5d91fakeda8ae50783caedd71
+```
 5. Run the notebooks.
 
