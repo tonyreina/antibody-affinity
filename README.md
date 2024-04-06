@@ -10,3 +10,14 @@ model can be used to predict the folding on any protein.
 neural network with PyTorch Lightning. (Currently the model makes very bad predictions.)
 
 ![antibody](https://upload.wikimedia.org/wikipedia/commons/3/3b/Inmunoglobulina.png)
+A 3D model of an Immunoglobulin molecule, showing heavy chains in blue and light chains in green. 
+By the National Library of Medicine. Public domain.
+
+## Installation
+
+1. Install miniconda
+2. `conda env create -f environment.yml` to create the conda environment called `antibody-env`.
+3. `conda activate antibody-env` to activate the conda environment.
+4. `jupyter lab` to run a Jupyter Lab server. Click on the url in the output log.
+5. Run the notebooks.
+
