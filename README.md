@@ -14,7 +14,7 @@ neural network with PyTorch Lightning. (Currently the model makes very bad predi
 
 ## Installation
 
-1. Install miniconda
+1. Install [miniconda](https://docs.anaconda.com/free/miniconda/miniconda-install/)
 2. `conda env create -f environment.yml` to create the conda environment called `antibody-env`.
 3. `conda activate antibody-env` to activate the conda environment.
 4. `jupyter lab` to run a Jupyter Lab server. Click on the url in the output log.
