@@ -9,4 +9,4 @@ model can be used to predict the folding on any protein.
 [TDCommons](https://tdcommons.ai/multi_pred_tasks/antibodyaff/) and train a 
 neural network with PyTorch Lightning. (Currently the model makes very bad predictions.)
 
-![antibody](https://commons.wikimedia.org/wiki/File:Inmunoglobulina.png)
+![antibody](https://upload.wikimedia.org/wikipedia/commons/3/3b/Inmunoglobulina.png)
