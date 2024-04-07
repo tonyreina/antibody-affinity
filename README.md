@@ -24,3 +24,4 @@ Jupyter Server 2.13.0 is running at:
 ```
 5. Run the notebooks.
 
+![prediction](prediction_3HFM.gif)
