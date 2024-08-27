@@ -1,0 +1,25 @@
+[project]
+name = "antibody-affinity"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Tony Reina <tbreina@bu.edu>"]
+channels = ["nvidia", "pytorch", "conda-forge", "bioconda"]
+platforms = ["linux-64"]
+
+
+[system-requirements]
+cuda = "12" 
+
+[tasks]
+
+[dependencies]
+python = ">=3.11"
+pytorch = ">=2.4.0,<3"
+torchvision = ">=0.19.0,<0.20"
+lightning = ">=2.4.0,<3"
+jupyter = ">=1.0.0,<2"
+pytdc = ">=0.3.8,<0.4"
+anarci = ">=2021.2.4,<2022"
+ablang = ">=0.3.1,<0.4"
+transformers = ">=4.44.2,<5"
+black = ">=24.8.0,<25"
