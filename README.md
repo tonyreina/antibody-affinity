@@ -4,7 +4,10 @@ This repository contains examples of how to work with AI models for protein desi
 
 * `esmfold_multimer.ipynb` demonstrates how to predict the folding of an antibody sequence 
 using [HuggingFace's ESMFold model](https://huggingface.co/facebook/esmfold_v1). This
-model can be used to predict the folding on any protein.
+model can be used to predict the folding on any protein.  <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/tonyreina/antibody-affinity/blob/main/esmfold_multimer.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 * `antibody-affinity.ipynb` demonstrates how to load the antibody affinity dataset from
 [TDCommons](https://tdcommons.ai/multi_pred_tasks/antibodyaff/) and train a 
 neural network with PyTorch Lightning. (Currently the model makes very bad predictions.)
